@@ -18,7 +18,7 @@ function Home() {
         <div className="Home p-2">
             <div className='home2'>
                 <h1 className="d-flex justify-content-center p-1">ELECT A TRUE LEARDER TO SERVE YOU AS I HAVE DONE FOR 33 YEARS</h1>
-                <h3 className="d-flex justify-content-center p-1">Primary Election June 28, 2022</h3>
+                <h3 className="d-flex justify-content-center p-1">Primary Election July 19, 2022</h3>
                 <h3 className="d-flex justify-content-center p-1">General Election November 8, 2022</h3>
                 <div className="d-flex justify-content-center p-3">
                     <button onClick={voteReg} className="btn btn-info">Register to Vote</button>
