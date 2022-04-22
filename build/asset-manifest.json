@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9215a998.chunk.css",
+    "main.js": "/static/js/main.e8be97f8.chunk.js",
+    "main.js.map": "/static/js/main.e8be97f8.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.0930e8ec.js",
+    "runtime-main.js.map": "/static/js/runtime-main.0930e8ec.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.7e45a564.chunk.js": "/static/js/2.7e45a564.chunk.js",
+    "static/js/2.7e45a564.chunk.js.map": "/static/js/2.7e45a564.chunk.js.map",
+    "static/js/3.cc24edc5.chunk.js": "/static/js/3.cc24edc5.chunk.js",
+    "static/js/3.cc24edc5.chunk.js.map": "/static/js/3.cc24edc5.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.9215a998.chunk.css.map": "/static/css/main.9215a998.chunk.css.map",
+    "static/js/2.7e45a564.chunk.js.LICENSE.txt": "/static/js/2.7e45a564.chunk.js.LICENSE.txt",
+    "static/media/Americanflag.1a5b0e5e.png": "/static/media/Americanflag.1a5b0e5e.png",
+    "static/media/Facebook.ae87c8a8.png": "/static/media/Facebook.ae87c8a8.png",
+    "static/media/Profilepic.cd72fbe3.jpg": "/static/media/Profilepic.cd72fbe3.jpg",
+    "static/media/cashBingo.9c75223e.png": "/static/media/cashBingo.9c75223e.png",
+    "static/media/eventpic1.2084a66f.jpg": "/static/media/eventpic1.2084a66f.jpg",
+    "static/media/eventpic2.11e33501.jpg": "/static/media/eventpic2.11e33501.jpg",
+    "static/media/pic2.6daf3e80.jpg": "/static/media/pic2.6daf3e80.jpg",
+    "static/media/pic3.41302d7e.jpg": "/static/media/pic3.41302d7e.jpg",
+    "static/media/pic4.65f27fb3.jpg": "/static/media/pic4.65f27fb3.jpg",
+    "static/media/pic5.1eb72a6e.jpg": "/static/media/pic5.1eb72a6e.jpg",
+    "static/media/pic6.77f3ab94.jpg": "/static/media/pic6.77f3ab94.jpg",
+    "static/media/pic7.4742c9ad.jpg": "/static/media/pic7.4742c9ad.jpg",
+    "static/media/pic8.49a2d3f0.jpg": "/static/media/pic8.49a2d3f0.jpg",
+    "static/media/sticker.defcd586.jpg": "/static/media/sticker.defcd586.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0930e8ec.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.7e45a564.chunk.js",
+    "static/css/main.9215a998.chunk.css",
+    "static/js/main.e8be97f8.chunk.js"
+  ]
+}
