@@ -4,7 +4,7 @@ import email from '../images/email.png';
 
 function Footer() {
     return (
-        <div className="Footer p-2">
+        <div className="Footer p-5">
             <div>
                 <div className='row p-1'>
                     <div className='col p-1'>

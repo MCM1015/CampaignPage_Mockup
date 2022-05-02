@@ -3,7 +3,7 @@ import './styles/Footer.css'
 import './styles/pages.css'
 import React from 'react';
 import Home from './pages/Home';
-import About from './pages/About';
+import AboutDave from './pages/AboutDave';
 import Issues from './pages/Issues';
 import Events from './pages/Events';
 import Volunteer from './pages/Volunteer';
@@ -22,8 +22,8 @@ function App() {
           <Route exact path='/'>
             <Home />
           </Route>
-          <Route exact path='/About'>
-            <About />
+          <Route exact path='/AboutDave'>
+            <AboutDave />
           </Route>
           <Route exact path='/Issues'>
             <Issues />

@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.9215a998.chunk.css",
-    "main.js": "/static/js/main.3417cced.chunk.js",
-    "main.js.map": "/static/js/main.3417cced.chunk.js.map",
+    "main.css": "/static/css/main.a96e8ff9.chunk.css",
+    "main.js": "/static/js/main.39f05497.chunk.js",
+    "main.js.map": "/static/js/main.39f05497.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.0930e8ec.js",
     "runtime-main.js.map": "/static/js/runtime-main.0930e8ec.js.map",
     "static/css/2.0a9ec390.chunk.css": "/static/css/2.0a9ec390.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.cc24edc5.chunk.js.map": "/static/js/3.cc24edc5.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.0a9ec390.chunk.css.map": "/static/css/2.0a9ec390.chunk.css.map",
-    "static/css/main.9215a998.chunk.css.map": "/static/css/main.9215a998.chunk.css.map",
+    "static/css/main.a96e8ff9.chunk.css.map": "/static/css/main.a96e8ff9.chunk.css.map",
     "static/js/2.a9f708ee.chunk.js.LICENSE.txt": "/static/js/2.a9f708ee.chunk.js.LICENSE.txt",
     "static/media/Americanflag.1a5b0e5e.png": "/static/media/Americanflag.1a5b0e5e.png",
     "static/media/Facebook.ae87c8a8.png": "/static/media/Facebook.ae87c8a8.png",
@@ -33,7 +33,7 @@
     "static/js/runtime-main.0930e8ec.js",
     "static/css/2.0a9ec390.chunk.css",
     "static/js/2.a9f708ee.chunk.js",
-    "static/css/main.9215a998.chunk.css",
-    "static/js/main.3417cced.chunk.js"
+    "static/css/main.a96e8ff9.chunk.css",
+    "static/js/main.39f05497.chunk.js"
   ]
 }
