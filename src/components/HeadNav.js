@@ -1,6 +1,7 @@
 import { Link } from "react-router-dom";
 import React from "react";
 import ReeseLogo from "../images/ReeseLogo.jpg";
+import donatebutton from '../images/donatebutton.png';
 
 function HeadNav() {
   return (
@@ -29,9 +30,15 @@ function HeadNav() {
           <li className="nav-link">
             <a href="https://elections.carrollcountymd.gov/Registration.aspx" target="_blank" rel="noreferrer" id="links">Register to Vote</a>
           </li>
-          {/* <li>
-        <button className="btn btn-danger">DONATE</button>
-        </li> */}
+        </ul>
+      </div>
+      <div>
+        <ul className="nav">
+          <li>
+            <a href="https://secure.anedot.com/ba37e0a0-7d02-4a64-a713-bd41e37a7683/donate" target="_blank" rel="noreferrer" id="links">
+              <img src={donatebutton} className="donate" id="donate" alt="donate" />
+            </a>
+          </li>
         </ul>
       </div>
     </div>

@@ -1,3 +1,5 @@
+// "start": "node server/server.js",
+
 import React from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { Carousel } from "react-bootstrap";
@@ -10,6 +12,8 @@ import pic7 from '../images/pic7.jpg';
 import pic8 from '../images/pic8.jpg';
 import pic9 from '../images/pic9.jpg';
 import pic10 from '../images/pic10.png';
+import pic11 from '../images/pic11.png';
+import strawpoll from '../images/strawpoll.jpg';
 
 
 function AboutDave() {
@@ -26,6 +30,7 @@ function AboutDave() {
                 </div>
                 <div className="d-flex justify-content-center m-auto">
                     <iframe
+                        className="video"
                         src="https://www.youtube.com/embed/2hao2VJROOE"
                         title="YouTube video player"
                         frameBorder="0"
@@ -39,11 +44,17 @@ function AboutDave() {
                 </div>
                 <div className="d-flex justify-content-center m-2">
                     <Carousel>
-                    <Carousel.Item className="carousel-item">
+                        <Carousel.Item className="carousel-item">
+                            <img src={strawpoll} id="carousel" alt="straw poll" />
+                        </Carousel.Item>
+                        <Carousel.Item className="carousel-item">
                             <img src={pic9} id="carousel" alt="endorsement" />
                         </Carousel.Item>
                         <Carousel.Item className="carousel-item">
                             <img src={pic10} id="carousel" alt="endorsement" />
+                        </Carousel.Item>
+                        <Carousel.Item className="carousel-item">
+                            <img src={pic11} id="carousel" alt="endorsement" />
                         </Carousel.Item>
                         <Carousel.Item className="carousel-item">
                             <img src={pic5} id="carousel" alt="Dave and Friends" />
@@ -70,9 +81,16 @@ function AboutDave() {
                 </div>
                 <div className="bio">
                     <p>
-                    "We are pleased to announce our endorsement of Dave Reese for Carroll County Commissioner, District 2. Mr. Reese has over 30 years of experience in County Government who promoted his way from a Road Maintenance worker through several management positions and eventually to Deputy Director of Public Works. This front line experience will help him serve the citizens of Carroll County greatly."
-                    <br></br>
-                    -Carroll County FOP Lodge 20
+                        "We are pleased to announce our endorsement of Dave Reese for Carroll County Commissioner, District 2. Mr. Reese has over 30 years of experience in County Government who promoted his way from a Road Maintenance worker through several management positions and eventually to Deputy Director of Public Works. This front line experience will help him serve the citizens of Carroll County greatly."
+                        <br></br>
+                        -Carroll County FOP Lodge 20
+                    </p>
+                </div>
+                <div className="bio">
+                    <p>
+                        "Mr. Reese brings a wealth of experience in local government.  Additionally, education funding is one of his highest priorities."
+                        <br></br>
+                        -CCEA
                     </p>
                 </div>
             </div>
