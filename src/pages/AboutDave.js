@@ -1,4 +1,5 @@
 // "start": "node server/server.js",
+// "start": "react-scripts --openssl-legacy-provider start"
 
 import React from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
@@ -30,11 +31,11 @@ function AboutDave() {
                 </div>
                 <div className="d-flex justify-content-center m-auto">
                     <iframe
-                        className="video"
-                        src="https://www.youtube.com/embed/2hao2VJROOE"
+                        className='video'
+                        src="https://www.youtube.com/embed/DXie3kYCcYo"
                         title="YouTube video player"
-                        frameBorder="0"
-                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen>
+                        frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
                     </iframe>
                 </div>
                 <div className="bio">
@@ -92,6 +93,15 @@ function AboutDave() {
                         <br></br>
                         -CCEA
                     </p>
+                </div>
+                <div className="d-flex justify-content-center m-auto p-1">
+                    <iframe
+                        className="video"
+                        src="https://www.youtube.com/embed/2hao2VJROOE"
+                        title="YouTube video player"
+                        frameBorder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen>
+                    </iframe>
                 </div>
             </div>
         </div>

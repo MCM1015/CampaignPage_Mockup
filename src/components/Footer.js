@@ -14,9 +14,6 @@ function Footer() {
                         <a href="mailto:dreese4commissioner@gmail.com"><img src={email} alt="email" className="icon" /></a>
                     </div>
                 </div>
-                {/* <div className='d-flex justify-content-center p-1'>
-                    <button className="btn btn-danger">DONATE</button>
-                </div> */}
                 <div className='d-flex justify-content-center p-1'>
                     <p className="foot">By Authority: Stacey Nash</p>
                 </div>
