@@ -14,6 +14,9 @@ import pic8 from '../images/pic8.jpg';
 import pic9 from '../images/pic9.jpg';
 import pic10 from '../images/pic10.png';
 import pic11 from '../images/pic11.png';
+import pic12 from '../images/pic12.jpg';
+import pic13 from '../images/pic13.jpg';
+import pic14 from '../images/pic14.jpg';
 import strawpoll from '../images/strawpoll.jpg';
 
 
@@ -49,7 +52,13 @@ function AboutDave() {
                             <img src={strawpoll} id="carousel" alt="straw poll" />
                         </Carousel.Item>
                         <Carousel.Item className="carousel-item">
-                            <img src={pic9} id="carousel" alt="endorsement" />
+                            <img src={pic14} id="carousel" alt="endorsement" />
+                        </Carousel.Item>
+                        <Carousel.Item className="carousel-item">
+                            <img src={pic12} id="carousel" alt="endorsement" />
+                        </Carousel.Item>
+                        <Carousel.Item className="carousel-item">
+                            <img src={pic13} id="carousel" alt="endorsement" />
                         </Carousel.Item>
                         <Carousel.Item className="carousel-item">
                             <img src={pic10} id="carousel" alt="endorsement" />
