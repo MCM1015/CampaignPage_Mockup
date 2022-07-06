@@ -61,6 +61,9 @@ function AboutDave() {
                             <img src={pic13} id="carousel" alt="endorsement" />
                         </Carousel.Item>
                         <Carousel.Item className="carousel-item">
+                            <img src={pic9} id="carousel" alt="endorsement" />
+                        </Carousel.Item>
+                        <Carousel.Item className="carousel-item">
                             <img src={pic10} id="carousel" alt="endorsement" />
                         </Carousel.Item>
                         <Carousel.Item className="carousel-item">
